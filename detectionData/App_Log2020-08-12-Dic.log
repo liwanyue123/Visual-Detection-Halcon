@@ -1,0 +1,8 @@
+2020-08-12 12:35:03 Error HalconDotNet.HOperatorException: HALCON error #5322: Image acquisition: timeout in operator grab_image_async
+   在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HOperatorSet.GrabImageAsync(HObject& image, HTuple acqHandle, HTuple maxDelay)
+   在 wheelDetection.Form1.CameraThread() 位置 E:\code\detection\wheelDetection - 10.0\wheelDetection\Form1.cs:行号 781
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()

@@ -1,0 +1,5 @@
+E:\ihalcon论坛\ihalcon开源窗体控件\ihalcon开源窗体控件\halcon控件\obj\Release\HWindow_Tool.csprojAssemblyReference.cache
+E:\ihalcon论坛\ihalcon开源窗体控件\ihalcon开源窗体控件\halcon控件\obj\Release\ChoiceTech.Halcon.Control.HWindow_Final.resources
+E:\ihalcon论坛\ihalcon开源窗体控件\ihalcon开源窗体控件\halcon控件\obj\Release\ViewROI.Properties.Resources.resources
+E:\ihalcon论坛\ihalcon开源窗体控件\ihalcon开源窗体控件\halcon控件\obj\Release\HWindow_Tool.csproj.GenerateResource.cache
+E:\ihalcon论坛\ihalcon开源窗体控件\ihalcon开源窗体控件\halcon控件\obj\Release\HWindow_Tool.csproj.CoreCompileInputs.cache

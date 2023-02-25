@@ -1,0 +1,16 @@
+2020-06-07 08:51:22 Error System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“TextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.SetSelectedTextInternal(String text, Boolean clearUndo)
+   在 System.Windows.Forms.TextBoxBase.set_SelectedText(String value)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 wheelDetection.frm_Com.ComReceiveDataEvent(Object sender, SerialPortEventArgs e) 位置 E:\code\detection\wheelDetection - 10.0\wheelDetection\frm_Com.cs:行号 146
+   在 wheelDetection.SerialPortEventHandler.Invoke(Object sender, SerialPortEventArgs e)
+   在 wheelDetection.ComModel.DataReceived(Object sender, SerialDataReceivedEventArgs e) 位置 E:\code\detection\wheelDetection - 10.0\wheelDetection\COM\ComModel.cs:行号 136
+   在 System.IO.Ports.SerialPort.CatchReceivedEvents(Object src, SerialDataReceivedEventArgs e)
+   在 System.IO.Ports.SerialStream.EventLoopRunner.CallReceiveEvents(Object state)
+   在 System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
