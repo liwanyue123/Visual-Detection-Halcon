@@ -1,0 +1,263 @@
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+D:\code\wheelDetection\wheelDetection\bin\Debug\wheelDetection.exe.config
+D:\code\wheelDetection\wheelDetection\bin\Debug\wheelDetection.exe
+D:\code\wheelDetection\wheelDetection\bin\Debug\wheelDetection.pdb
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Controls.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Imaging.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Math.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Video.dll
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.xml
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Controls.xml
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Imaging.xml
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Math.xml
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Video.xml
+D:\code\wheelDetection\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.exe
+D:\code\wheelDetection\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 5.1\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 7.0\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 8.0\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 9.0\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\wheelDetection - 10.0\wheelDetection\obj\Debug\wheelDetection.pdb
+E:\code\detection\Detection\wheelDetection\bin\Debug\wheelDetection.exe.config
+E:\code\detection\Detection\wheelDetection\bin\Debug\wheelDetection.exe
+E:\code\detection\Detection\wheelDetection\bin\Debug\wheelDetection.pdb
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Controls.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Imaging.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Math.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Video.DirectShow.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Video.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\halcondotnet.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\HWindow_Tool.dll
+E:\code\detection\Detection\wheelDetection\bin\Debug\HWindow_Tool.pdb
+E:\code\detection\Detection\wheelDetection\bin\Debug\HWindow_Tool.dll.config
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Controls.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Imaging.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Math.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Video.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\AForge.Video.DirectShow.xml
+E:\code\detection\Detection\wheelDetection\bin\Debug\halcondotnet.xml
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.Form1.resources
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.frm_Com.resources
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.Properties.Resources.resources
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.csproj.CopyComplete
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.exe
+E:\code\detection\Detection\wheelDetection\obj\Debug\wheelDetection.pdb

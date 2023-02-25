@@ -1,0 +1,31 @@
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\wheelDetection.exe.config
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\wheelDetection.exe
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\wheelDetection.pdb
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Controls.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Imaging.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Math.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Video.DirectShow.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Video.dll
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Controls.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Imaging.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Math.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Video.xml
+E:\code\detection\wheelDetection\wheelDetection\bin\Release\AForge.Video.DirectShow.xml
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.csproj.CopyComplete
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.exe
+E:\code\detection\wheelDetection\wheelDetection\obj\Release\wheelDetection.pdb
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.csprojAssemblyReference.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.Form1.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.frm_Com.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.frm_Unit_Measure.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.Properties.Resources.resources
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.csproj.GenerateResource.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.csproj.CoreCompileInputs.cache
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.exe
+E:\code\detection\wheelDetection - 6.0\wheelDetection\obj\Release\wheelDetection.pdb
